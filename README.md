@@ -24,7 +24,7 @@ I'm a passionate web developer with experience in building responsive and intera
 
 - **Email**: prasannaprabhud@gmail.com
 - **LinkedIn**: [Prasanna Prabhud](https://www.linkedin.com/in/prasannaprabhud/)
-- **Twitter**: [@prabhu](https://twitter.com/prabhu-verse)
+- **Twitter**: [@prabhu](https://x.com/Prabhu_verse)
 
 ## ⚡ Fun fact
 
