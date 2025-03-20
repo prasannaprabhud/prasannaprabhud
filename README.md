@@ -1,11 +1,11 @@
-# Hi there, I'm Prasanna Prabhud 👋
+# Hi there, I'm Prasanna Prabhu 👋
 
 I'm a passionate web developer with experience in building responsive and interactive web applications. I love to learn new technologies and apply them in real-world projects.
 
 ## 🚀 Skills
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries**: React, Node.js, Express, Next.js
+- **Frameworks/Libraries**: React, Node.js
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, Docker, VS Code
 
@@ -16,16 +16,16 @@ I'm a passionate web developer with experience in building responsive and intera
 
 ## 🌱 Currently Learning
 
-- Advanced TypeScript
-- GraphQL
-- Cloud Computing (AWS)
+- Advanced JavaScript
+- Python 
+- MySQL
 
 ## 📫 How to reach me
 
-- **Email**: prasanna@example.com
-- **LinkedIn**: [Prasanna Prabhud](https://www.linkedin.com/in/prasanna-prabhud/)
-- **Twitter**: [@prasanna](https://twitter.com/prasanna)
+- **Email**: prasannaprabhud@gmail.com
+- **LinkedIn**: [Prasanna Prabhud](https://www.linkedin.com/in/prasannaprabhud/)
+- **Twitter**: [@prabhu](https://twitter.com/prabhu-verse)
 
 ## ⚡ Fun fact
 
-I love to paint and play the guitar in my free time!
+I love to paint and play the football in my free time!
