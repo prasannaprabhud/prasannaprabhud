@@ -7,12 +7,12 @@ I'm a passionate web developer with experience in building responsive and intera
 - **Languages**: JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries**: React, Node.js
 - **Databases**: MongoDB, MySQL
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, VS Code
 
 ## 🔭 Projects
 
-- **[Project Name](https://github.com/prasannaprabhud/project-name)**: Brief description of the project.
-- **[Another Project](https://github.com/prasannaprabhud/another-project)**: Brief description of the project.
+- **[Landing Page](https://github.com/prasannaprabhud/landing-page)**: Simple and interactive landing page.
+- **[Etch-A-Sketch](https://github.com/prasannaprabhud/Etch-A-Sketch)**: To produce professional lineographic work. 
 
 ## 🌱 Currently Learning
 
