@@ -29,3 +29,7 @@ I'm a passionate web developer with experience in building responsive and intera
 ## ⚡ Fun fact
 
 I love to paint and play the football in my free time!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasannaprabhud&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannaprabhud&layout=compact&theme=radical)
