@@ -4,9 +4,9 @@ I'm a passionate web developer with experience in building responsive and intera
 
 ## 🚀 Skills
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries**: React, Node.js
-- **Databases**: MongoDB, MySQL
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks/Libraries**: Node.js
+- **Databases**: MySQL
 - **Tools**: Git, VS Code
 
 ## 🔭 Projects
@@ -17,7 +17,8 @@ I'm a passionate web developer with experience in building responsive and intera
 ## 🌱 Currently Learning
 
 - Advanced JavaScript
-- Python 
+- Python
+- Java
 - MySQL
 
 ## 📫 How to reach me
