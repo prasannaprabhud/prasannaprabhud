@@ -6,7 +6,7 @@ I'm a passionate web developer with experience in building responsive and intera
 
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks/Libraries**: Node.js
-- **Databases**: MySQL
+- **Databases**: Oracle SQL, MySQL
 - **Tools**: Git, VS Code
 
 ## 🔭 Projects
